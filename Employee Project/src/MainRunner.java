@@ -12,8 +12,8 @@ public class MainRunner {
 	      int sortResult;                  // Used to sort employee array
 	      double [] total = new double[6]; // Stores all totals
 	      
-	      String INPUT_FILE = "src/WestonLake_JonathonFiorini_4_05.txt";  // Name of input file
-	      String OUTPUT_FILE = "WestonLake_JonathonFiorini_4_05_Output.txt";// Name of output file
+	      String INPUT_FILE = "src/Input.txt";  // Name of input file
+	      String OUTPUT_FILE = "Output.txt";// Name of output file
 	      
 	      // Test to see if input text file is in directory
 
